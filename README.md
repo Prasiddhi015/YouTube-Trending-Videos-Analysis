@@ -3,8 +3,6 @@ This project was completed as a learning exercise
 by following a guided tutorial. The analysis and 
 observations are my own understanding of the dataset.
 
-# YouTube-Trending-Videos-Analysis
-EDA on YouTube trending videos from 10 countries using Python. Covers sentiment analysis, emoji analysis, category performance and engagement patterns.
 # YouTube Trending Videos Analysis
 
 ## Project Overview
