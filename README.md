@@ -1,4 +1,4 @@
-#Note: This project was completed as a learning exercise 
+# Note: This project was completed as a learning exercise 
 by following a guided tutorial. The analysis and 
 observations are my own understanding of the dataset.
 
