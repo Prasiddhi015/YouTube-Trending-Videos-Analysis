@@ -2,7 +2,11 @@
 This project was completed as a learning exercise 
 by following a guided tutorial. The analysis and 
 observations are my own understanding of the dataset.
-
+## Dataset
+Large CSV files could not be uploaded due to GitHub size limits.
+Dataset contains YouTube trending videos data from 10 countries —
+US, IN, GB, DE, FR, JP, KR, MX, RU, CA
+Total records: 3,39,525
 # YouTube Trending Videos Analysis
 
 ## Project Overview
